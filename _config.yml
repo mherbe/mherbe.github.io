@@ -21,33 +21,33 @@ repository               : "mherbe/mherbe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Mattprofile.jpg"
   name             : "Matt Herbert"
   pronouns         : # example: "she/her"  
-  bio              : "LSU Alumni with a Degree in Information Systems & Decision Sciences"
-  location         : "Earth"
+  bio              : "LSU Alumni with a Degree in Information Systems & Decision Sciences with a Minor in Analytics"
+  location         : "Baton Rouge"
   employer         : "Louisiana State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mherbe7@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : # URL
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : "mherbe"
+  kaggle           : "mattherbert" 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "mattherbert44"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
