@@ -3,7 +3,7 @@ title: "ISDS 4125"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'System Analysis and design and the capstone course for the Information Systems & Decision Sciences major. In this course we learned real world experience and partnered with a company around the Baton Rouge area to increase process automation.'
-paperurl: '/files/Project1'
+paperurl: '/files/Project1.pdf'
 ---
 
 Our group won 1st place in the final capstone course competition where 10 groups competed to show off their system implementation projects. Our project consisted of helping a church speed up the marriage preparation process by created an interactive Google sheet that had javascript running in the app script extension. The script was able to read the dashboard and send update emails regarding which couple needed to turn in documents and who Fr. Mathew needed to follow up with.
