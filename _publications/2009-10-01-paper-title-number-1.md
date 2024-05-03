@@ -9,4 +9,4 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Our group won 1st place in the final capstone course competition where 10 groups competed to show off their system implementation projects. Our project consisted of helping a church speed up the marriage preparation process by created an interactive Google sheet that had javascript running in the app script extension. The script was able to read the dashboard and send update emails regarding which couple needed to turn in documents and who Fr. Mathew needed to follow up with.
