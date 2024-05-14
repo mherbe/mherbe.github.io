@@ -10,4 +10,6 @@ Utilizing Tableau and python we were able to understand and visualize our busine
 
 For one of the sections of our project we needed to individually select certain seeds from a dataset. We utilized jupyter notebooks to accomplish our intended purpose. The notebook and the documentation can be found [here](/files/FoodChange.ipynb) and the [csv](/files/meal.cvs) needed for the analysis.
 
+
+
 <img src='/images/seed2.png' width='500' height='300' alt='Seed Image'>
