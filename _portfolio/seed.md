@@ -1,6 +1,6 @@
 ---
 title: "Seed Analysis"
-excerpt: "Understanding our mock business with deep analysis <br/><img src='/images/4125pic.png' width='500' height='300'>"
+excerpt: "Understanding our mock business with deep analysis <br/><img src='/images/seed1.png' width='500' height='300'>"
 collection: portfolio
 ---
 
