@@ -3,11 +3,11 @@ main:
   - title: "Projects"
     url: /portfolio/
 
-  - title: "Course Work"
-    url: /publications/  
-
   - title: "Resume"
     url: /files/MattHerbertResume.pdf
+
+  # title: "Course Work"
+  # url: /publications/  
 
   # title: "Talks"
   # url: /talks/  
