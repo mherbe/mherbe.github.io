@@ -1,6 +1,6 @@
 ---
-title: "First Round Quarterbacks"
-excerpt: "Visualizing NFL teams by first round quarterback selections <br/><img src='/images/QB1.png' width='500' height='300'>"
+title: "IMBd dataset"
+excerpt: "Improving IMDb filtering <br/><img src='/images/ComedyDashboard.png' width='500' height='300'>"
 collection: portfolio
 ---
 
